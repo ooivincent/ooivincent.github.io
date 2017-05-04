@@ -51,8 +51,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 669A Edgefield Plains
-  - line: Singapore 821669
+  - line: North-East
+  - line: Singapore
 
 # Credits content
 credits: 'Built with Jekyll and StartBootstrap Theme, awesome tools! <a href="http://startbootstrap.com">Start Bootstrap</a>.'
