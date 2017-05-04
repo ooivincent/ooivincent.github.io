@@ -1,9 +1,10 @@
 ---
 layout: default
 modal-id: 6
-date: 2014-07-15
+date: 2017-07-15
 img: 433.png
 alt: image-alt
+title: 433Mhz Bridge
 project-date: April 2017
 client: WifiEnabler.com
 category: RF 433Mhz
