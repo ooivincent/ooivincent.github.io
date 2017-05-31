@@ -2,8 +2,8 @@
 title: Vincent Ooi
 email: vincent@ooi.cc
 url: http://vincent.ooi.cc
-description: "Having fun with technlogy!"
-skills: "Dad - Developer - Maker"
+description: "Flatten Eco-System"
+skills: "Dad - Developer - Architect"
 meta_author: Ooi Vincent
 
 # Google webmaster tools
@@ -55,7 +55,7 @@ address:
   - line: Singapore
 
 # Credits content
-credits: 'Built with Jekyll and StartBootstrap Theme, awesome tools! <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Built with Jekyll and StartBootstrap Theme.'
 
 # Build settings
 markdown: kramdown
