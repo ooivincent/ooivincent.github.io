@@ -3,7 +3,7 @@ title: Vincent Ooi
 email: vincent@ooi.cc
 url: http://vincent.ooi.cc
 description: "Flatten Eco-System"
-skills: "Dad - Developer - Architect"
+skills: "CyberSecurity - IOT - BlockChain"
 meta_author: Ooi Vincent
 
 # Google webmaster tools
@@ -33,21 +33,13 @@ color:
 footer:
   copyright: Vincent Ooi
   location: Singapore
-  social: Join the Chatter
+  social: Connect
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
     url: http://twitter.com/techy_sg
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/techsg
-  - title: bitbucket
-    url: http://bitbucket.org/techsg
-  - title: github
-    url: http://github.com/techsg
 
 # Postal address (add as many lines as necessary)
 address:
